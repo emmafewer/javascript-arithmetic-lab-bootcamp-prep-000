@@ -22,7 +22,7 @@ function increment(n) {
 }
 
 function increment(n) {
-  return number +-n;
+  return number -=n;
 }
 
 
