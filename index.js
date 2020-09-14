@@ -15,9 +15,14 @@ function divide(a, b) {
   return(a/b);
 }
 
-var number = 5
+var number = 10
 
-number += n
+function increment(n) {
+  number+=n;
+}
 
-number -= n
+function increment(n) {
+  number+-n;
+}
+
 
