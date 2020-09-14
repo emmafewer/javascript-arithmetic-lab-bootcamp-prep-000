@@ -4,14 +4,14 @@ function add(a,b) {
  
 
 function subtract(a, b) {
-  return (60 - 40) // 20
+  return (a-b);
 }
 
 function multiply(a, b) {
-  return(2 * 3.4) // 6.8 (there's that floating-point arithmetic again...)
+  return(a*b);
 }
 
 function divide(a, b) {
-  return(5.0 / 2.5) // 2
+  return(a/b);
 }
 
