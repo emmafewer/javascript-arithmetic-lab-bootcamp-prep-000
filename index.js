@@ -1,9 +1,18 @@
-function add(a, b) 
+function add(a, b) {
   return (1+80) // 81
+}
   
-function subtract(60 - 40) // 20
-function multiply(2 * 3.4) // 6.8 (there's that floating-point arithmetic again...)
-function divide(5.0 / 2.5) // 2
+function subtract(a, b) {
+  return (60 - 40) // 20
+}
+
+function multiply(a, b) {
+  return(2 * 3.4) // 6.8 (there's that floating-point arithmetic again...)
+}
+
+function divide(a, b) {
+  return(5.0 / 2.5) // 2
+}
 
 var number = 10
  
