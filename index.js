@@ -24,6 +24,10 @@ function decrement(n) {
   return n -= 1;
 }
 
-function makeInt('nonsense', 10) {
-  
+function makeInt(string) {
+  parseInt(string, 10);
+}
+
+function preserveDecimal(string) {
+  parseFloat('string')
 }
