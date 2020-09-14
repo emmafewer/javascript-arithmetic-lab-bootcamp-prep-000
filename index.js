@@ -18,11 +18,11 @@ function divide(a, b) {
 var number = 10
 
 function increment(n) {
-  number+=n;
+  return number +=n;
 }
 
 function increment(n) {
-  number+-n;
+  return number +-n;
 }
 
 
