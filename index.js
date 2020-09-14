@@ -2,7 +2,7 @@ function add(a, b) {
   return (1+80); // 81;
 }
  
-add(a,b);
+add(a, b);
 
 function subtract(a, b) {
   return (60 - 40) // 20
