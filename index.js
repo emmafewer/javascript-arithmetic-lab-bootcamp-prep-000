@@ -19,3 +19,5 @@ var number = 5
 
 number += n
 
+number -= n
+
