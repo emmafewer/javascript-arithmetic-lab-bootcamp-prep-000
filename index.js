@@ -24,4 +24,4 @@ function decrement(n) {
   return n -= 1;
 }
 
-
+parseInt('nonsense!', 10)
